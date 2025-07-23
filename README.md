@@ -169,4 +169,5 @@ It represents a milestone in my full-stack journey with CodTech IT Solution, and
 
 *OUTPUT*
 
-
+<img width="1917" height="1013" alt="Image" src="https://github.com/user-attachments/assets/8824f564-5199-4f40-a081-6a4ef505d693" />
+<img width="511" height="467" alt="Image" src="https://github.com/user-attachments/assets/7c91a87a-64b0-46d1-8925-c2130a1e18ed" />
