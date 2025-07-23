@@ -1,4 +1,5 @@
-# API-INTEGRATION 
+#  Chrome Extension for Time Tracking and Productivity Analytics
+
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
